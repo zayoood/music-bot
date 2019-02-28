@@ -1,6 +1,5 @@
-token=NTUwMDc5OTc5MDY1NDQyNDU4.D1kEbA.lBLhhY2g7c-04DL053IRA7dI3R4 
+token=NTUwMDc5OTc5MDY1NDQyNDU4.D1kEbA.lBLhhY2g7c-04DL053IRA7dI3R4
 owner=539238079144263681
 prefix=$
-game= 
 stayinchannel=true
 songinstatus=false
